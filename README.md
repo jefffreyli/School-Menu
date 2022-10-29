@@ -1,6 +1,6 @@
 # School Menu
 
-A new Flutter project.
+A school meal menu from Monday to Friday.
 
 ## Getting Started
 
