@@ -1,4 +1,4 @@
-# school_menu
+# School Menu
 
 A new Flutter project.
 
